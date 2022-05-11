@@ -6,7 +6,7 @@ Marketplace para estudos sobre framework Angular
 
 ## Tecnologias
 
-- [Angular CLI]()
+- [x] Angular CLI
 - [x] Components
 - [x] Json-server
 - [x] Angular/material
@@ -15,7 +15,7 @@ Marketplace para estudos sobre framework Angular
 - [x] Bindings
 - [x] Bindings
 
-## To start
+## Inicie
 
 <br>
 
