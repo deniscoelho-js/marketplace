@@ -4,11 +4,9 @@ Marketplace para estudos sobre framework Angular
 
 <hr>
 
-</details>
-<details>
-<summary>Frontend</summary>
+##Tecnologias
 
-- [x] Angular CLI
+- [x] Angular CLI()
 - [x] Components
 - [x] Json-server
 - [x] Angular/material
@@ -16,7 +14,6 @@ Marketplace para estudos sobre framework Angular
 - [x] Directives
 - [x] Bindings
 - [x] Bindings
-</details>
 
 ## To start
 
