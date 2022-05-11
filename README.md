@@ -4,9 +4,9 @@ Marketplace para estudos sobre framework Angular
 
 <hr>
 
-##Tecnologias
+## Tecnologias
 
-- [x] Angular CLI()
+- [Angular CLI]()
 - [x] Components
 - [x] Json-server
 - [x] Angular/material
